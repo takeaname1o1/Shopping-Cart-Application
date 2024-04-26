@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the implementation of a Shopping Cart Application developed by Group-35 as part of the CS212 - Object Oriented Programming Laboratory course at the Department of Computer Science & Engineering, NITS (National Institute of Technology, Srinagar) for the session January - June 2024.
+This repository contains the implementation of a Shopping Cart Application by Group-35 as part of the CS212 - Object Oriented Programming Laboratory course at the Department of Computer Science & Engineering, NITS (National Institute of Technology, Silchar) for the session January - June 2024.
 
 ## Problem Statement
 
