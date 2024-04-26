@@ -1,0 +1,24 @@
+Last login: Thu Apr 25 15:29:29 on ttys000
+g10@G10-Air final project % ls
+G35_Shopping.pdf	ShoppinfCart.cpp
+g10@G10-Air final project % clang++ S*
+g10@G10-Air final project % ls
+G35_Shopping.pdf	ShoppinfCart.cpp	a.out
+g10@G10-Air final project % ./a.out
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
